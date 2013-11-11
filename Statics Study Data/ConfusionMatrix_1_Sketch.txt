@@ -1,0 +1,376 @@
+001_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+001_Pliers_original.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+002_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+003_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+004_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+004_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+004_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+005_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+011_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+012_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+013_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_Crane.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_Crank.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_Crusher.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_Hoist.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_LandingGear.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+
+014_Pliers.labeled
+	Gate	Label	Wire
+Gate	0	0	0	
+Label	0	0	0	
+Wire	0	0	0	
+
+
+

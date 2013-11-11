@@ -1,0 +1,5 @@
+	Equation	NonEquation
+Equation	7380	989	
+NonEquation	1180	2859	
+
+

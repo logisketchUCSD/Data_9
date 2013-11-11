@@ -1,0 +1,1666 @@
+001_Crane.labeled;Body;Body Body ;;3.6;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;ForceLabel ;100.0;40.2
+001_Crane.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crane.labeled;Body;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;ForceArrow ;100.0;159.2
+001_Crane.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Crane.labeled;AxisLabel;;;100.0;0.0
+001_Crane.labeled;CoordSystem;CoordSystem ;;88.6;0.0
+001_Crane.labeled;AxisLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;ForceLabel ;100.0;56.0
+001_Crane.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crane.labeled;ForceArrow;;ForceLabel ;100.0;58.4
+001_Crane.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crane.labeled;Body;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;ForceArrow;;;100.0;0.0
+001_Crane.labeled;ForceLabel;;;100.0;0.0
+001_Crane.labeled;OtherLabel;;;100.0;0.0
+001_Crane.labeled;OtherLabel;;;100.0;0.0
+001_Crank.labeled;Body;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;ForceArrow ;100.0;106.9
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;Point;Point ;;21.9;0.0
+001_Crank.labeled;MomentArrow;;;100.0;0.0
+001_Crank.labeled;MomentLabel;;;100.0;0.0
+001_Crank.labeled;Body;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;ForceLabel ;;77.7;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;AxisLabel;;;100.0;0.0
+001_Crank.labeled;CoordSystem;CoordSystem ;;76.8;0.0
+001_Crank.labeled;AxisLabel;;CoordSystem ;100.0;154.2
+001_Crank.labeled;Body;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;ForceArrow ;;48.4;0.0
+001_Crank.labeled;ForceLabel;ForceLabel ;;87.1;0.0
+001_Crank.labeled;Body;;;100.0;0.0
+001_Crank.labeled;MomentArrow;;;100.0;0.0
+001_Crank.labeled;Point;;;100.0;0.0
+001_Crank.labeled;MomentLabel;;;100.0;0.0
+001_Crank.labeled;ForceArrow;;;100.0;0.0
+001_Crank.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;Body;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;ForceArrow ;;64.2;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;Body;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;;ForceLabel ForceArrow ForceLabel ;100.0;170.0
+001_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crusher.labeled;ForceArrow;;;100.0;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;Body;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;ForceArrow ;ForceLabel ;40.3;77.8
+001_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crusher.labeled;ForceArrow;;;100.0;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;Body;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;;AngleLabel ;100.0;20.6
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;;ForceArrow ;100.0;84.4
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;Body;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;;;100.0;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;ForceArrow ;;55.1;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;;;100.0;0.0
+001_Crusher.labeled;ForceLabel;;;100.0;0.0
+001_Crusher.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Crusher.labeled;AxisLabel;;;100.0;0.0
+001_Crusher.labeled;CoordSystem;CoordSystem ;;82.6;0.0
+001_Crusher.labeled;AxisLabel;;CoordSystem ;100.0;96.9
+001_Crusher.labeled;LeaderLine;LeaderLine LeaderLine ;;65.9;0.0
+001_Crusher.labeled;AngleLabel;AngleLabel AngleLabel ;;0.0;0.0
+001_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;44.1
+001_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;49.2;0.0
+001_Hoist.labeled;Body;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;47.2;0.0
+001_Hoist.labeled;ForceArrow;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;44.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;;ForceLabel ;100.0;51.1
+001_Hoist.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;AxisLabel;;;100.0;0.0
+001_Hoist.labeled;CoordSystem;CoordSystem ;;87.1;0.0
+001_Hoist.labeled;AxisLabel;;;100.0;0.0
+001_Hoist.labeled;Body;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;70.5;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;ForceLabel ;38.3;45.3
+001_Hoist.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Hoist.labeled;ForceArrow;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;165.2
+001_Hoist.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;43.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;Body;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;42.9;0.0
+001_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;62.2
+001_Hoist.labeled;ForceArrow;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;Body;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;;ForceArrow ;100.0;82.7
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Hoist.labeled;ForceLabel;;;100.0;0.0
+001_Hoist.labeled;ForceArrow;ForceArrow ;;52.1;0.0
+001_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;57.6
+001_Hoist.labeled;LeaderLine;;;100.0;0.0
+001_Hoist.labeled;AngleLabel;;;100.0;0.0
+001_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;59.6
+001_Hoist.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+001_LandingGear.labeled;Body;;ForceArrow ;100.0;4.1
+001_LandingGear.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+001_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;54.4
+001_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;133.9
+001_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_LandingGear.labeled;MomentArrow;;;100.0;0.0
+001_LandingGear.labeled;MomentLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;ForceLabel ;100.0;27.7
+001_LandingGear.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_LandingGear.labeled;AxisLabel;;;100.0;0.0
+001_LandingGear.labeled;CoordSystem;CoordSystem ;;82.0;0.0
+001_LandingGear.labeled;AxisLabel;;CoordSystem ;100.0;170.2
+001_LandingGear.labeled;Body;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;133.4
+001_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_LandingGear.labeled;MomentArrow;;;100.0;0.0
+001_LandingGear.labeled;MomentLabel;;;100.0;0.0
+001_LandingGear.labeled;Body;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;Body;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_LandingGear.labeled;ForceArrow;;;100.0;0.0
+001_LandingGear.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;Body;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine ;LeaderLine ;32.8;12.2
+001_Pliers.labeled;ForceLabel;;ForceArrow ;100.0;212.2
+001_Pliers.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Pliers.labeled;ForceLabel;;ForceArrow ;100.0;256.1
+001_Pliers.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+001_Pliers.labeled;Body;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;AxisLabel;;;100.0;0.0
+001_Pliers.labeled;CoordSystem;;;100.0;0.0
+001_Pliers.labeled;AxisLabel;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine ;;32.4;0.0
+001_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine ;;42.1;0.0
+001_Pliers.labeled;AngleLabel;AngleLabel ;;72.3;0.0
+001_Pliers.labeled;LeaderLine;;;100.0;0.0
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;;;100.0;0.0
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;;DimensionLabel LeaderLine AngleLabel PointerArrow ;100.0;382.4
+001_Pliers.labeled;DimensionLabel;DimensionLabel ;;55.2;0.0
+001_Pliers.labeled;ForceArrow;ForceArrow ;;46.7;0.0
+001_Pliers.labeled;LeaderLine;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;;;100.0;0.0
+001_Pliers.labeled;AngleLabel;AngleLabel AngleLabel ;;0.0;0.0
+001_Pliers.labeled;PointerArrow;PointerArrow ;;0.0;0.0
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;;LeaderLine ;100.0;114.2
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;LeaderLine;;OtherArrow ;100.0;150.9
+001_Pliers.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+001_Pliers.labeled;LeaderLine;;;100.0;0.0
+001_Pliers.labeled;AngleLabel;;;100.0;0.0
+001_Pliers.labeled;OtherArrow;OtherArrow OtherArrow ;;0.0;0.0
+001_Pliers.labeled;Body;Body ;;90.9;0.0
+001_Pliers.labeled;ForceArrow;;;100.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;81.3
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+001_Pliers.labeled;ForceLabel;;;100.0;0.0
+001_Pliers.labeled;ForceArrow;;ForceLabel ;100.0;63.1
+001_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;;47.2;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;;31.2;0.0
+001_Pliers_original.labeled;ForceLabel;;ForceArrow ;100.0;183.9
+001_Pliers_original.labeled;Body;Body Body Body ;;98.5;0.0
+001_Pliers_original.labeled;Body;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;ForceLabel ;38.5;74.3
+001_Pliers_original.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;ForceLabel ;;85.9;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;;50.8;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;Body;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;;45.9;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;;;100.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ;;62.2;0.0
+001_Pliers_original.labeled;ForceLabel;;ForceArrow ;100.0;63.2
+001_Pliers_original.labeled;AxisLabel;;;100.0;0.0
+001_Pliers_original.labeled;CoordSystem;CoordSystem ;;80.2;0.0
+001_Pliers_original.labeled;AxisLabel;;CoordSystem ;100.0;152.2
+001_Pliers_original.labeled;LeaderLine;;LeaderLine ForceArrow ;100.0;183.4
+001_Pliers_original.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+001_Pliers_original.labeled;AngleLabel;AngleLabel ;;59.1;0.0
+001_Pliers_original.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+001_Pliers_original.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;AxisLabel;;AxisLabel ;100.0;226.1
+002_Crane.labeled;CoordSystem;;;100.0;0.0
+002_Crane.labeled;AxisLabel;AxisLabel ;;0.0;0.0
+002_Crane.labeled;Body;Body Body ;;99.6;0.0
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;42.8;0.0
+002_Crane.labeled;ForceLabel;ForceLabel ;;43.7;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;ForceArrow ;100.0;24.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;58.8;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;70.1;0.0
+002_Crane.labeled;ForceLabel;;ForceArrow ;100.0;45.9
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;Body;;;100.0;0.0
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;ForceLabel ;;78.3;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;60.8;0.0
+002_Crane.labeled;LeaderLine;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;67.7;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;Arc;;;100.0;0.0
+002_Crane.labeled;AngleLabel;;;100.0;0.0
+002_Crane.labeled;LeaderLine;LeaderLine ;ForceArrow Arc AngleLabel ;83.3;541.0
+002_Crane.labeled;Arc;Arc ;;0.0;0.0
+002_Crane.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+002_Crane.labeled;Divider;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;57.9;0.0
+002_Crane.labeled;LeaderLine;LeaderLine LeaderLine ;;19.9;0.0
+002_Crane.labeled;Arc;;;100.0;0.0
+002_Crane.labeled;AngleLabel;;ForceArrow LeaderLine ;100.0;173.6
+002_Crane.labeled;LeaderLine;;ForceArrow ;100.0;107.0
+002_Crane.labeled;AngleLabel;;Arc ;100.0;56.0
+002_Crane.labeled;Arc;Arc ;;0.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;Body;Body ;;33.8;0.0
+002_Crane.labeled;ForceArrow;;ForceLabel ;100.0;104.2
+002_Crane.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;ForceLabel;ForceLabel ;;85.2;0.0
+002_Crane.labeled;Body;;LeaderLine ;100.0;117.0
+002_Crane.labeled;Point;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;67.3;0.0
+002_Crane.labeled;ForceLabel;ForceLabel ;ForceArrow ;38.7;43.7
+002_Crane.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine ;;0.0;0.0
+002_Crane.labeled;Arc;;;100.0;0.0
+002_Crane.labeled;AngleLabel;;;100.0;0.0
+002_Crane.labeled;ForceArrow;ForceArrow ;;76.9;0.0
+002_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;17.0;0.0
+002_Crane.labeled;AngleLabel;;Arc ;100.0;41.7
+002_Crane.labeled;Arc;Arc ;;0.0;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;ForceArrow;;;100.0;0.0
+002_Crane.labeled;ForceLabel;;;100.0;0.0
+002_Crane.labeled;Divider;Divider ;;78.2;0.0
+002_Crank.labeled;Body;;;100.0;0.0
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;CoordSystem;CoordSystem ;;79.3;0.0
+002_Crank.labeled;AxisLabel;;;100.0;0.0
+002_Crank.labeled;AxisLabel;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;ForceArrow ForceLabel ;100.0;106.4
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;LeaderLine;;;100.0;0.0
+002_Crank.labeled;Arc;;;100.0;0.0
+002_Crank.labeled;AngleLabel;;;100.0;0.0
+002_Crank.labeled;Body;;ForceArrow ;100.0;108.6
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;ForceArrow;ForceArrow ;;74.5;0.0
+002_Crank.labeled;ForceLabel;;ForceArrow ;100.0;74.5
+002_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+002_Crank.labeled;ForceLabel;ForceLabel ;;36.2;0.0
+002_Crank.labeled;Arc;;;100.0;0.0
+002_Crank.labeled;AngleLabel;;;100.0;0.0
+002_Crank.labeled;Body;;;100.0;0.0
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+002_Crank.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Crank.labeled;ForceArrow;;ForceLabel ;100.0;82.9
+002_Crank.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Crank.labeled;LeaderLine;LeaderLine LeaderLine ;;34.1;0.0
+002_Crank.labeled;Arc;;;100.0;0.0
+002_Crank.labeled;AngleLabel;AngleLabel ;;57.4;0.0
+002_Crank.labeled;Body;Body ;;87.1;0.0
+002_Crank.labeled;Point;;;100.0;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;;100.0;0.0
+002_Crank.labeled;MomentArrow;MomentArrow ;Body ;69.9;30.4
+002_Crank.labeled;MomentLabel;;;100.0;0.0
+002_Crank.labeled;Divider;;;100.0;0.0
+002_Crank.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine ;;34.4;0.0
+002_Crank.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine ;;15.0;0.0
+002_Crank.labeled;OtherArrow;;;100.0;0.0
+002_Crank.labeled;OtherArrow;OtherArrow ;;77.3;0.0
+002_Crank.labeled;Divider;;;100.0;0.0
+002_Crank.labeled;ForceLabel;;Point ;100.0;47.8
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;ForceLabel;ForceLabel ;;85.1;0.0
+002_Crank.labeled;ForceArrow;;;100.0;0.0
+002_Crank.labeled;Point;Point ;;0.0;0.0
+002_Crank.labeled;Divider;Divider ;;38.7;0.0
+002_Crusher.labeled;Body;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;ForceLabel ;ForceArrow ForceArrow ;77.4;44.3
+002_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;40.5;0.0
+002_Crusher.labeled;Body;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;;LeaderLine ;100.0;46.1
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;ForceArrow ;;55.3;0.0
+002_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ;;64.8;0.0
+002_Crusher.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+002_Crusher.labeled;Arc;;;100.0;0.0
+002_Crusher.labeled;AngleLabel;;;100.0;0.0
+002_Crusher.labeled;Point;;;100.0;0.0
+002_Crusher.labeled;LocationLabel;;;100.0;0.0
+002_Crusher.labeled;Point;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;ForceArrow ;;35.5;0.0
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;Body;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;;;100.0;0.0
+002_Crusher.labeled;LeaderLine;LeaderLine ;ForceLabel AngleLabel PointerArrow PointerArrow ;32.2;337.6
+002_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Crusher.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+002_Crusher.labeled;PointerArrow;PointerArrow PointerArrow ;;0.0;0.0
+002_Crusher.labeled;Point;;;100.0;0.0
+002_Crusher.labeled;Point;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;37.9
+002_Crusher.labeled;ForceArrow;ForceArrow ;;41.6;0.0
+002_Crusher.labeled;ForceArrow;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;LeaderLine;LeaderLine ;;47.0;0.0
+002_Crusher.labeled;Arc;;;100.0;0.0
+002_Crusher.labeled;AngleLabel;;;100.0;0.0
+002_Crusher.labeled;PointerArrow;PointerArrow ;LeaderLine ;26.3;18.9
+002_Crusher.labeled;Body;;;100.0;0.0
+002_Crusher.labeled;ForceArrow;ForceArrow ;;78.1;0.0
+002_Crusher.labeled;ForceArrow;ForceArrow ;ForceLabel ;44.3;75.7
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Crusher.labeled;ForceArrow;;;100.0;0.0
+002_Crusher.labeled;ForceLabel;;;100.0;0.0
+002_Crusher.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;Body;Body ;;95.5;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;CoordSystem;CoordSystem ;;71.8;0.0
+002_Hoist.labeled;AxisLabel;;;100.0;0.0
+002_Hoist.labeled;AxisLabel;;;100.0;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;77.6;0.0
+002_Hoist.labeled;ForceArrow;ForceArrow ;;56.5;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;57.3;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;Body;;;100.0;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;70.1;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;71.6;0.0
+002_Hoist.labeled;ForceArrow;ForceArrow ;;64.1;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;38.1;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;Body;;;100.0;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;ForceLabel ;100.0;51.3
+002_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;;;100.0;0.0
+002_Hoist.labeled;Point;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;36.3;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_Hoist.labeled;ForceLabel;ForceLabel ;;73.5;0.0
+002_Hoist.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;Arc;;;100.0;0.0
+002_Hoist.labeled;AngleLabel;;;100.0;0.0
+002_Hoist.labeled;LeaderLine;;;100.0;0.0
+002_Hoist.labeled;LeaderLine;;LeaderLine ;100.0;55.8
+002_Hoist.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+002_Hoist.labeled;LeaderLine;;;100.0;0.0
+002_Hoist.labeled;Arc;;AngleLabel ;100.0;240.9
+002_Hoist.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+002_Hoist.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine ;;16.3;0.0
+002_Hoist.labeled;LeaderLine;LeaderLine ;;20.1;0.0
+002_Hoist.labeled;Arc;;;100.0;0.0
+002_Hoist.labeled;AngleLabel;;;100.0;0.0
+002_Hoist.labeled;Divider;;;100.0;0.0
+002_Hoist.labeled;ForceArrow;;;100.0;0.0
+002_LandingGear.labeled;Body;;;100.0;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;;;100.0;0.0
+002_LandingGear.labeled;ForceLabel;;;100.0;0.0
+002_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;20.9
+002_LandingGear.labeled;ForceArrow;ForceArrow ;;57.9;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;ForceArrow ;;57.4;0.0
+002_LandingGear.labeled;ForceLabel;;;100.0;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;;ForceLabel ;100.0;48.9
+002_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+002_LandingGear.labeled;Body;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;;;100.0;0.0
+002_LandingGear.labeled;ForceLabel;ForceLabel ;;44.6;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;MomentArrow;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;;;100.0;0.0
+002_LandingGear.labeled;ForceLabel;;;100.0;0.0
+002_LandingGear.labeled;ForceArrow;;;100.0;0.0
+002_LandingGear.labeled;ForceLabel;ForceLabel ;;43.4;0.0
+002_LandingGear.labeled;CoordSystem;;;100.0;0.0
+002_LandingGear.labeled;AxisLabel;;AxisLabel ;100.0;301.7
+002_LandingGear.labeled;AxisLabel;AxisLabel ;;0.0;0.0
+002_LandingGear.labeled;Divider;;;100.0;0.0
+002_LandingGear.labeled;Divider;;;100.0;0.0
+002_LandingGear.labeled;LeaderLine;LeaderLine ;;73.8;0.0
+002_LandingGear.labeled;Arc;;AngleLabel ;100.0;223.5
+002_LandingGear.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+002_LandingGear.labeled;LeaderLine;;;100.0;0.0
+002_LandingGear.labeled;Body;;;100.0;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;LocationLabel;;;100.0;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;LocationLabel;LocationLabel ;;22.1;0.0
+002_LandingGear.labeled;Point;;;100.0;0.0
+002_LandingGear.labeled;LocationLabel;;;100.0;0.0
+002_LandingGear.labeled;LeaderLine;;;100.0;0.0
+002_LandingGear.labeled;Arc;;;100.0;0.0
+002_LandingGear.labeled;AngleLabel;;;100.0;0.0
+002_Pliers.labeled;Body;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+002_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine ;;32.7;0.0
+002_Pliers.labeled;LeaderLine;LeaderLine LeaderLine ;;46.1;0.0
+002_Pliers.labeled;Arc;;;100.0;0.0
+002_Pliers.labeled;AngleLabel;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+002_Pliers.labeled;Point;;;100.0;0.0
+002_Pliers.labeled;CoordSystem;;;100.0;0.0
+002_Pliers.labeled;AxisLabel;;;100.0;0.0
+002_Pliers.labeled;AxisLabel;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;65.7;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;ForceLabel ;;84.2;0.0
+002_Pliers.labeled;Body;Body Body ;;92.9;0.0
+002_Pliers.labeled;Point;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;ForceArrow ;ForceLabel ;38.4;106.5
+002_Pliers.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Pliers.labeled;ForceArrow;ForceArrow ;ForceLabel ;39.7;98.9
+002_Pliers.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;ForceLabel ;;86.3;0.0
+002_Pliers.labeled;Body;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;ForceArrow ;;57.6;0.0
+002_Pliers.labeled;ForceArrow;ForceArrow ;;52.2;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+002_Pliers.labeled;LeaderLine;LeaderLine ;;14.4;0.0
+002_Pliers.labeled;Arc;;;100.0;0.0
+002_Pliers.labeled;AngleLabel;;;100.0;0.0
+002_Pliers.labeled;LeaderLine;;;100.0;0.0
+002_Pliers.labeled;Arc;;ForceArrow ;100.0;217.4
+002_Pliers.labeled;AngleLabel;;;100.0;0.0
+002_Pliers.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+002_Pliers.labeled;LeaderLine;LeaderLine LeaderLine ;;42.9;0.0
+002_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;Body;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;;100.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;;100.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;;100.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;Body;;;100.0;0.0
+003_Crane.labeled;ForceArrow;ForceArrow ;;57.1;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;;100.0;0.0
+003_Crane.labeled;ForceArrow;ForceArrow ;;61.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;Body;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;ForceArrow ForceLabel ForceLabel ;100.0;211.1
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceArrow;ForceArrow ;;60.0;0.0
+003_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+003_Crane.labeled;ForceArrow;ForceArrow ;;65.9;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crane.labeled;ForceArrow;;;100.0;0.0
+003_Crane.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;Body;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;77.6
+003_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;MomentArrow;MomentArrow ;;76.9;0.0
+003_Crank.labeled;MomentLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;70.3;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;76.2;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;Body;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;51.9;0.0
+003_Crank.labeled;ForceLabel;ForceLabel ;;83.7;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;68.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;74.7;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;Body;;;100.0;0.0
+003_Crank.labeled;ForceArrow;;;100.0;0.0
+003_Crank.labeled;ForceLabel;ForceLabel ;;35.5;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;55.2;0.0
+003_Crank.labeled;ForceLabel;;ForceArrow ;100.0;38.3
+003_Crank.labeled;ForceArrow;ForceArrow ;;53.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;48.9;0.0
+003_Crank.labeled;ForceLabel;;ForceArrow ;100.0;28.6
+003_Crank.labeled;Body;;;100.0;0.0
+003_Crank.labeled;ForceArrow;ForceArrow ;;72.7;0.0
+003_Crank.labeled;ForceLabel;;ForceArrow ;100.0;30.7
+003_Crank.labeled;ForceLabel;;ForceArrow ;100.0;31.4
+003_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+003_Crank.labeled;ForceArrow;;ForceArrow ;100.0;41.1
+003_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;ForceLabel;;;100.0;0.0
+003_Crank.labeled;MomentArrow;;;100.0;0.0
+003_Crank.labeled;MomentLabel;;;100.0;0.0
+003_Crusher.labeled;Body;;;100.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;;74.4;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;Body;;;100.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;ForceArrow ;40.1;32.9
+003_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;;60.5;0.0
+003_Crusher.labeled;ForceLabel;;ForceArrow ForceArrow ;100.0;52.4
+003_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crusher.labeled;ForceLabel;ForceLabel ;;63.6;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;;66.7;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;Body;;Body ;100.0;103.4
+003_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;35.6
+003_Crusher.labeled;ForceArrow;ForceArrow ;;54.6;0.0
+003_Crusher.labeled;ForceLabel;;ForceArrow ForceArrow ;100.0;60.8
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;;58.4;0.0
+003_Crusher.labeled;Body;Body ;;0.0;0.0
+003_Crusher.labeled;ForceArrow;;ForceArrow ;100.0;40.9
+003_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;ForceLabel;ForceLabel ;;83.0;0.0
+003_Crusher.labeled;ForceArrow;;;100.0;0.0
+003_Crusher.labeled;ForceArrow;ForceArrow ;;55.0;0.0
+003_Crusher.labeled;ForceLabel;;;100.0;0.0
+003_Crusher.labeled;ForceLabel;ForceLabel ;;84.2;0.0
+003_Hoist.labeled;Body;;;100.0;0.0
+003_Hoist.labeled;ForceArrow;;;100.0;0.0
+003_Hoist.labeled;ForceLabel;ForceLabel ;;39.9;0.0
+003_Hoist.labeled;ForceArrow;;ForceLabel ForceLabel ;100.0;144.3
+003_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+003_Hoist.labeled;ForceArrow;ForceArrow ;;66.7;0.0
+003_Hoist.labeled;ForceLabel;;;100.0;0.0
+003_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;56.0
+003_Hoist.labeled;ForceArrow;ForceArrow ;;53.0;0.0
+003_Hoist.labeled;ForceArrow;ForceArrow ;;51.8;0.0
+003_Hoist.labeled;Body;;;100.0;0.0
+003_Hoist.labeled;ForceArrow;;;100.0;0.0
+003_Hoist.labeled;ForceLabel;;;100.0;0.0
+003_Hoist.labeled;ForceArrow;;;100.0;0.0
+003_Hoist.labeled;ForceLabel;;;100.0;0.0
+003_Hoist.labeled;ForceArrow;;;100.0;0.0
+003_Hoist.labeled;ForceLabel;;;100.0;0.0
+003_Hoist.labeled;ForceArrow;ForceArrow ;;44.7;0.0
+003_Hoist.labeled;ForceLabel;ForceLabel ;;78.4;0.0
+003_LandingGear.labeled;Body;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;50.0;0.0
+003_LandingGear.labeled;ForceLabel;ForceLabel ;MomentArrow ;34.0;21.7
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;62.6;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;MomentArrow;MomentArrow MomentArrow ;;0.0;0.0
+003_LandingGear.labeled;MomentLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;Body;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;24.2
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;43.8;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;ForceArrow ForceLabel ForceLabel ;100.0;113.6
+003_LandingGear.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;Body;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;40.7
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;50.4;0.0
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;57.6;0.0
+003_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;29.5
+003_LandingGear.labeled;MomentArrow;;;100.0;0.0
+003_LandingGear.labeled;MomentLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;ForceArrow ForceLabel ForceLabel ;100.0;126.8
+003_LandingGear.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+003_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+003_LandingGear.labeled;Body;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;33.3;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;74.4;0.0
+003_LandingGear.labeled;ForceArrow;;;100.0;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_LandingGear.labeled;ForceArrow;ForceArrow ;;44.4;0.0
+003_LandingGear.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;Body;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;;55.1;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;;49.3;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;Body;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceLabel;ForceLabel ;;96.9;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;;41.3;0.0
+003_Pliers.labeled;ForceLabel;;ForceArrow ;100.0;66.4
+003_Pliers.labeled;Body;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;;45.0;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+003_Pliers.labeled;ForceArrow;;;100.0;0.0
+003_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;64.2;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;ForceLabel ForceLabel ;38.4;50.8
+003_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;41.3;0.0
+003_Pliers.labeled;ForceArrow;ForceArrow ;;54.8;0.0
+003_Pliers.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;Body;Body ;;93.8;0.0
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;PointerArrow;PointerArrow ;;48.9;0.0
+004_Crane.labeled;Body;;;100.0;0.0
+004_Crane.labeled;ForceArrow;ForceArrow ;;51.8;0.0
+004_Crane.labeled;ForceLabel;;ForceArrow ;100.0;117.8
+004_Crane.labeled;ForceArrow;;ForceLabel ;100.0;17.2
+004_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+004_Crane.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;82.9
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+004_Crane.labeled;ForceLabel;;ForceLabel ;100.0;19.8
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;PointerArrow;;;100.0;0.0
+004_Crane.labeled;DimensionLabel;;LocationLabel ;100.0;128.9
+004_Crane.labeled;LocationLabel;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;LocationLabel;LocationLabel ;;0.0;0.0
+004_Crane.labeled;DimensionLabel;DimensionLabel DimensionLabel DimensionLabel ;;34.0;0.0
+004_Crane.labeled;Arc;;;100.0;0.0
+004_Crane.labeled;PointerArrow;PointerArrow ;;55.3;0.0
+004_Crane.labeled;LocationLabel;;;100.0;0.0
+004_Crane.labeled;LocationLabel;;;100.0;0.0
+004_Crane.labeled;DimensionLabel;;;100.0;0.0
+004_Crane.labeled;DimensionLabel;;;100.0;0.0
+004_Crane.labeled;AngleLabel;;;100.0;0.0
+004_Crane.labeled;PointerArrow;PointerArrow PointerArrow ;;1.2;0.0
+004_Crane.labeled;Body;;;100.0;0.0
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;ForceLabel ;;47.8;0.0
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;ForceArrow;ForceArrow ;ForceArrow ;44.2;60.3
+004_Crane.labeled;ForceLabel;;ForceArrow ForceLabel ForceLabel ForceArrow ;100.0;176.9
+004_Crane.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+004_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+004_Crane.labeled;ForceArrow;;;100.0;0.0
+004_Crane.labeled;ForceLabel;;;100.0;0.0
+004_Crane.labeled;Divider;;;100.0;0.0
+004_Crank.labeled;Body;Body ;;92.7;0.0
+004_Crank.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;132.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ;;65.3;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ;;81.9;0.0
+004_Crank.labeled;MomentArrow;;;100.0;0.0
+004_Crank.labeled;MomentLabel;;;100.0;0.0
+004_Crank.labeled;ForceArrow;ForceArrow ;;45.9;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;60.5;0.0
+004_Crank.labeled;Arc;;;100.0;0.0
+004_Crank.labeled;AngleLabel;;;100.0;0.0
+004_Crank.labeled;Divider;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;71.8;0.0
+004_Crank.labeled;Body;;;100.0;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;AngleLabel;;Arc ;100.0;26.0
+004_Crank.labeled;Arc;Arc ;;0.0;0.0
+004_Crank.labeled;ForceArrow;ForceArrow ;;53.3;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ;ForceArrow AngleLabel AngleLabel ;86.4;54.5
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ;;43.4;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;AngleLabel;AngleLabel AngleLabel ;;0.0;0.0
+004_Crank.labeled;Body;;;100.0;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crank.labeled;Arc;;AngleLabel ;100.0;269.5
+004_Crank.labeled;AngleLabel;AngleLabel AngleLabel ;;0.0;0.0
+004_Crank.labeled;MomentArrow;;;100.0;0.0
+004_Crank.labeled;MomentLabel;;;100.0;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;ForceLabel ;;65.9;0.0
+004_Crank.labeled;ForceArrow;;;100.0;0.0
+004_Crank.labeled;ForceLabel;;;100.0;0.0
+004_Crusher.labeled;Body;;;100.0;0.0
+004_Crusher.labeled;ForceArrow;;;100.0;0.0
+004_Crusher.labeled;ForceLabel;;;100.0;0.0
+004_Crusher.labeled;LeaderLine;LeaderLine ;;56.8;0.0
+004_Crusher.labeled;AngleLabel;;LeaderLine ;100.0;14.7
+004_Crusher.labeled;ForceArrow;ForceArrow ;;60.1;0.0
+004_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ;ForceArrow ;20.5;24.0
+004_Crusher.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;91.4
+004_Crusher.labeled;ForceLabel;;;100.0;0.0
+004_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+004_Crusher.labeled;ForceLabel;;;100.0;0.0
+004_Crusher.labeled;PointerArrow;;;100.0;0.0
+004_Crusher.labeled;Body;;;100.0;0.0
+004_Crusher.labeled;ForceArrow;;;100.0;0.0
+004_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ;;25.4;0.0
+004_Crusher.labeled;ForceArrow;;;100.0;0.0
+004_Crusher.labeled;ForceLabel;;;100.0;0.0
+004_Crusher.labeled;ForceArrow;;;100.0;0.0
+004_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ;;50.9;0.0
+005_Crane.labeled;Body;;;100.0;0.0
+005_Crane.labeled;ForceArrow;;;100.0;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;ForceArrow;;;100.0;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;ForceArrow;;;100.0;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;ForceArrow;ForceArrow ;;37.7;0.0
+005_Crane.labeled;ForceLabel;;ForceArrow ;100.0;83.3
+005_Crane.labeled;ForceArrow;ForceArrow ForceArrow ;;51.2;0.0
+005_Crane.labeled;ForceLabel;;ForceArrow ;100.0;18.0
+005_Crane.labeled;Body;;;100.0;0.0
+005_Crane.labeled;ForceArrow;ForceArrow ;;67.1;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;ForceArrow;;;100.0;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;ForceArrow;ForceArrow ;;90.1;0.0
+005_Crane.labeled;ForceLabel;;;100.0;0.0
+005_Crane.labeled;Point;;;100.0;0.0
+005_Crane.labeled;LocationLabel;;;100.0;0.0
+005_Crane.labeled;Point;;;100.0;0.0
+005_Crane.labeled;LocationLabel;;;100.0;0.0
+005_Crane.labeled;DimensionLabel;;;100.0;0.0
+005_Crane.labeled;DimensionLabel;DimensionLabel DimensionLabel DimensionLabel ;;67.6;0.0
+005_Crane.labeled;DimensionLabel;;;100.0;0.0
+005_Crane.labeled;DimensionLabel;DimensionLabel DimensionLabel ;;51.9;0.0
+005_Crank.labeled;Body;;ForceArrow ;100.0;16.1
+005_Crank.labeled;MomentArrow;MomentArrow ;;86.5;0.0
+005_Crank.labeled;MomentLabel;;;100.0;0.0
+005_Crank.labeled;ForceArrow;ForceArrow ;;52.7;0.0
+005_Crank.labeled;ForceLabel;ForceLabel ;;24.9;0.0
+005_Crank.labeled;ForceLabel;ForceLabel ;;90.9;0.0
+005_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;80.2;0.0
+005_Crank.labeled;ForceLabel;;ForceArrow ;100.0;18.6
+005_Crank.labeled;ForceArrow;ForceArrow ForceArrow ;;54.6;0.0
+005_Crank.labeled;ForceArrow;ForceArrow ;;39.7;0.0
+005_Crank.labeled;ForceLabel;;;100.0;0.0
+005_Crank.labeled;ForceArrow;ForceArrow ;;57.1;0.0
+005_Crank.labeled;ForceLabel;;;100.0;0.0
+005_Crank.labeled;ForceArrow;ForceArrow ;;41.9;0.0
+005_Crank.labeled;ForceLabel;;ForceArrow ;100.0;104.9
+005_Crank.labeled;ForceArrow;;;100.0;0.0
+005_Crank.labeled;ForceLabel;ForceLabel ;;39.0;0.0
+005_Crank.labeled;Body;Body ;;97.5;0.0
+005_Crank.labeled;LeaderLine;;;100.0;0.0
+005_Crank.labeled;AngleLabel;;;100.0;0.0
+005_Crusher.labeled;Body;;;100.0;0.0
+005_Crusher.labeled;ForceArrow;;;100.0;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;;63.0;0.0
+005_Crusher.labeled;ForceArrow;;;100.0;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;42.2;0.0
+005_Crusher.labeled;ForceLabel;;;100.0;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;40.1;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;;84.2;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;;77.2;0.0
+005_Crusher.labeled;ForceArrow;;;100.0;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;;75.6;0.0
+005_Crusher.labeled;Body;;;100.0;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;47.7;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;;59.7;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;50.9;0.0
+005_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;100.7
+005_Crusher.labeled;ForceLabel;ForceLabel ;;30.0;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;88.2;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;56.6;0.0
+005_Crusher.labeled;ForceLabel;;;100.0;0.0
+005_Crusher.labeled;Body;;;100.0;0.0
+005_Crusher.labeled;ForceArrow;;;100.0;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ForceLabel ;;21.0;0.0
+005_Crusher.labeled;ForceArrow;ForceArrow ;;62.0;0.0
+005_Crusher.labeled;ForceLabel;ForceLabel ;ForceArrow ;41.3;79.6
+005_Crusher.labeled;ForceArrow;ForceArrow ;;38.3;0.0
+005_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;108.2
+005_Hoist.labeled;Body;;;100.0;0.0
+005_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;100.7
+005_Hoist.labeled;ForceArrow;ForceArrow ForceArrow ;;32.5;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ;;68.1;0.0
+005_Hoist.labeled;ForceLabel;;;100.0;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ForceArrow ;;53.2;0.0
+005_Hoist.labeled;ForceLabel;ForceLabel ;;24.7;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ;;65.7;0.0
+005_Hoist.labeled;ForceLabel;ForceLabel ;;41.6;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ForceArrow ;;48.0;0.0
+005_Hoist.labeled;ForceLabel;;;100.0;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ;;44.3;0.0
+005_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;89.2
+005_Hoist.labeled;Body;;;100.0;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ;;43.4;0.0
+005_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;113.8
+005_Hoist.labeled;ForceArrow;;;100.0;0.0
+005_Hoist.labeled;ForceLabel;;;100.0;0.0
+005_Hoist.labeled;ForceArrow;ForceArrow ;;37.0;0.0
+005_Hoist.labeled;ForceLabel;ForceLabel ;;30.0;0.0
+005_Hoist.labeled;ForceArrow;;;100.0;0.0
+005_Hoist.labeled;ForceLabel;;;100.0;0.0
+005_LandingGear.labeled;Body;;;100.0;0.0
+005_LandingGear.labeled;MomentArrow;MomentArrow ;;81.0;0.0
+005_LandingGear.labeled;MomentLabel;;;100.0;0.0
+005_LandingGear.labeled;DimensionLabel;;;100.0;0.0
+005_LandingGear.labeled;ForceArrow;;;100.0;0.0
+005_LandingGear.labeled;ForceLabel;ForceLabel ;;33.8;0.0
+005_LandingGear.labeled;ForceArrow;;;100.0;0.0
+005_LandingGear.labeled;ForceLabel;;;100.0;0.0
+005_LandingGear.labeled;ForceArrow;;;100.0;0.0
+005_LandingGear.labeled;ForceLabel;;;100.0;0.0
+005_LandingGear.labeled;Body;;;100.0;0.0
+005_LandingGear.labeled;ForceArrow;;;100.0;0.0
+005_LandingGear.labeled;ForceLabel;ForceLabel ;;32.6;0.0
+005_LandingGear.labeled;ForceArrow;ForceArrow ;;49.1;0.0
+005_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;82.3
+005_LandingGear.labeled;ForceArrow;ForceArrow ;;88.5;0.0
+005_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;20.8
+005_LandingGear.labeled;Point;;;100.0;0.0
+005_LandingGear.labeled;ForceArrow;ForceArrow ;;71.5;0.0
+005_LandingGear.labeled;ForceLabel;;;100.0;0.0
+005_LandingGear.labeled;DimensionLabel;;;100.0;0.0
+005_LandingGear.labeled;DimensionLabel;DimensionLabel ;;78.0;0.0
+005_Pliers.labeled;Body;;;100.0;0.0
+005_Pliers.labeled;ForceArrow;;;100.0;0.0
+005_Pliers.labeled;ForceArrow;ForceArrow ;;61.4;0.0
+005_Pliers.labeled;ForceLabel;;;100.0;0.0
+005_Pliers.labeled;ForceLabel;;AngleLabel ;100.0;137.2
+005_Pliers.labeled;Body;;;100.0;0.0
+005_Pliers.labeled;ForceArrow;;ForceLabel ;100.0;42.2
+005_Pliers.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+005_Pliers.labeled;ForceArrow;;;100.0;0.0
+005_Pliers.labeled;ForceLabel;;;100.0;0.0
+005_Pliers.labeled;ForceArrow;ForceArrow ;;53.4;0.0
+005_Pliers.labeled;ForceLabel;ForceLabel ;ForceArrow ;61.0;82.7
+005_Pliers.labeled;ForceArrow;;;100.0;0.0
+005_Pliers.labeled;ForceLabel;ForceLabel ;;84.0;0.0
+005_Pliers.labeled;ForceArrow;;;100.0;0.0
+005_Pliers.labeled;ForceArrow;;;100.0;0.0
+005_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;69.4;0.0
+005_Pliers.labeled;ForceLabel;;;100.0;0.0
+005_Pliers.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+005_Pliers.labeled;LeaderLine;;;100.0;0.0
+005_Pliers.labeled;Divider;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;Point;;;100.0;0.0
+011_Crane.labeled;Body;Body Body Body Body ;;80.4;0.0
+011_Crane.labeled;Point;;;100.0;0.0
+011_Crane.labeled;LocationLabel;;;100.0;0.0
+011_Crane.labeled;LocationLabel;;;100.0;0.0
+011_Crane.labeled;LocationLabel;;Body ;100.0;67.4
+011_Crane.labeled;LocationLabel;;;100.0;0.0
+011_Crane.labeled;LocationLabel;;;100.0;0.0
+011_Crane.labeled;Body;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;ForceLabel ;100.0;27.6
+011_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+011_Crane.labeled;Point;;ForceArrow ForceLabel ;100.0;588.2
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+011_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+011_Crane.labeled;Body;Body ;;87.2;0.0
+011_Crane.labeled;Point;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;Arc;;;100.0;0.0
+011_Crane.labeled;AngleLabel;;;100.0;0.0
+011_Crane.labeled;Divider;;;100.0;0.0
+011_Crane.labeled;ForceArrow;;;100.0;0.0
+011_Crane.labeled;ForceLabel;;;100.0;0.0
+011_Crane.labeled;Ellipses;Ellipses Ellipses ;;49.2;0.0
+011_Crane.labeled;Divider;;;100.0;0.0
+011_Crane.labeled;Ellipses;;;100.0;0.0
+011_Crane.labeled;Divider;;;100.0;0.0
+012_Crane.labeled;Body;Body ;;75.1;0.0
+012_Crane.labeled;ForceArrow;;;100.0;0.0
+012_Crane.labeled;ForceLabel;;;100.0;0.0
+012_Crane.labeled;ForceArrow;;;100.0;0.0
+012_Crane.labeled;ForceLabel;;;100.0;0.0
+012_Crane.labeled;ForceArrow;ForceArrow ;;47.0;0.0
+012_Crane.labeled;ForceLabel;;;100.0;0.0
+012_Crane.labeled;ForceArrow;;;100.0;0.0
+012_Crane.labeled;ForceLabel;ForceLabel ;;45.1;0.0
+012_Crane.labeled;LeaderLine;LeaderLine ;;7.7;0.0
+012_Crane.labeled;Arc;;AngleLabel ;100.0;227.8
+012_Crane.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+012_Crank.labeled;Body;;;100.0;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;43.7;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;53.3;0.0
+012_Crank.labeled;ForceLabel;ForceLabel ;ForceArrow ;86.5;73.7
+012_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;65.1;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;60.8;0.0
+012_Crank.labeled;ForceLabel;;;100.0;0.0
+012_Crank.labeled;ForceArrow;;;100.0;0.0
+012_Crank.labeled;LeaderLine;LeaderLine ;AngleLabel ;85.3;104.4
+012_Crank.labeled;Arc;;;100.0;0.0
+012_Crank.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+012_Crank.labeled;ForceLabel;ForceLabel ;;48.9;0.0
+012_Crank.labeled;Body;;;100.0;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;59.6;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;63.8;0.0
+012_Crank.labeled;ForceArrow;;ForceLabel ;100.0;31.5
+012_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;;52.6;0.0
+012_Crank.labeled;ForceLabel;;;100.0;0.0
+012_Crank.labeled;ForceArrow;ForceArrow ;ForceLabel ;63.6;52.3
+012_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+012_Crank.labeled;AngleLabel;;;100.0;0.0
+012_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;69.2;0.0
+012_Crank.labeled;ForceLabel;;;100.0;0.0
+012_Crank.labeled;Arc;;ForceArrow ;100.0;180.8
+012_Crank.labeled;Body;;;100.0;0.0
+012_Crank.labeled;LocationLabel;;Point ;100.0;94.1
+012_Crank.labeled;ForceArrow;;;100.0;0.0
+012_Crank.labeled;ForceLabel;ForceLabel ;;26.3;0.0
+012_Crank.labeled;Arc;;;100.0;0.0
+012_Crank.labeled;AngleLabel;;ForceLabel ;100.0;129.2
+012_Crank.labeled;MomentArrow;;;100.0;0.0
+012_Crank.labeled;MomentLabel;;;100.0;0.0
+012_Crank.labeled;Point;Point ;;0.0;0.0
+012_Crusher.labeled;Body;;;100.0;0.0
+012_Crusher.labeled;ForceArrow;ForceArrow ;;52.0;0.0
+012_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;56.8
+012_Crusher.labeled;ForceArrow;ForceArrow ;;52.4;0.0
+012_Crusher.labeled;ForceLabel;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;;LeaderLine Arc ForceArrow ;100.0;276.3
+012_Crusher.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+012_Crusher.labeled;Arc;Arc ;;0.0;0.0
+012_Crusher.labeled;ForceArrow;;ForceArrow AngleLabel ;100.0;42.6
+012_Crusher.labeled;ForceArrow;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;;;100.0;0.0
+012_Crusher.labeled;LeaderLine;;;100.0;0.0
+012_Crusher.labeled;Arc;;;100.0;0.0
+012_Crusher.labeled;AngleLabel;;;100.0;0.0
+012_Crusher.labeled;Body;;;100.0;0.0
+012_Crusher.labeled;ForceArrow;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;;;100.0;0.0
+012_Crusher.labeled;ForceArrow;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;ForceLabel ;;76.6;0.0
+012_Crusher.labeled;ForceArrow;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;;;100.0;0.0
+012_Crusher.labeled;LeaderLine;LeaderLine ;;24.9;0.0
+012_Crusher.labeled;Arc;;;100.0;0.0
+012_Crusher.labeled;AngleLabel;;;100.0;0.0
+012_Crusher.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+012_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+012_Crusher.labeled;ForceArrow;;;100.0;0.0
+012_Crusher.labeled;LeaderLine;LeaderLine ;;35.3;0.0
+012_Crusher.labeled;AngleLabel;;;100.0;0.0
+012_Crusher.labeled;ForceLabel;;;100.0;0.0
+012_Hoist.labeled;Body;Body ;ForceArrow ;9.3;4.4
+012_Hoist.labeled;ForceArrow;ForceArrow ;ForceLabel ;41.2;48.4
+012_Hoist.labeled;ForceLabel;ForceLabel ;ForceArrow ;60.0;48.6
+012_Hoist.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+012_Hoist.labeled;ForceLabel;;;100.0;0.0
+012_Hoist.labeled;ForceArrow;;;100.0;0.0
+012_Hoist.labeled;ForceLabel;;;100.0;0.0
+012_Hoist.labeled;ForceArrow;;;100.0;0.0
+012_Hoist.labeled;ForceLabel;;;100.0;0.0
+012_Hoist.labeled;ForceArrow;;Body ;100.0;125.4
+012_Hoist.labeled;ForceArrow;;;100.0;0.0
+012_Hoist.labeled;ForceLabel;;;100.0;0.0
+012_Hoist.labeled;ForceArrow;;;100.0;0.0
+012_Hoist.labeled;Body;Body ;;0.0;0.0
+012_Hoist.labeled;ForceArrow;ForceArrow ;;48.7;0.0
+012_Hoist.labeled;ForceLabel;ForceLabel ;ForceArrow ;55.3;85.0
+012_Hoist.labeled;ForceArrow;ForceArrow ;;50.1;0.0
+012_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;73.1
+012_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;73.2;0.0
+012_Hoist.labeled;LocationLabel;LocationLabel LocationLabel LocationLabel ;;53.4;0.0
+012_Hoist.labeled;Arc;;;100.0;0.0
+012_Hoist.labeled;AngleLabel;;;100.0;0.0
+012_Hoist.labeled;LocationLabel;LocationLabel LocationLabel LocationLabel LocationLabel LocationLabel LocationLabel LocationLabel LocationLabel ;;19.9;0.0
+012_Hoist.labeled;PointerArrow;PointerArrow ;;43.9;0.0
+012_LandingGear.labeled;Body;;ForceArrow ;100.0;22.3
+012_LandingGear.labeled;ForceArrow;;;100.0;0.0
+012_LandingGear.labeled;ForceLabel;;;100.0;0.0
+012_LandingGear.labeled;Arc;;;100.0;0.0
+012_LandingGear.labeled;AngleLabel;;;100.0;0.0
+012_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+012_LandingGear.labeled;ForceLabel;;;100.0;0.0
+012_LandingGear.labeled;ForceArrow;ForceArrow ;;46.1;0.0
+012_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;41.8
+012_LandingGear.labeled;ForceArrow;;;100.0;0.0
+012_LandingGear.labeled;ForceLabel;;;100.0;0.0
+012_LandingGear.labeled;Body;;;100.0;0.0
+012_LandingGear.labeled;ForceArrow;ForceArrow ;;49.9;0.0
+012_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;38.9
+012_LandingGear.labeled;ForceArrow;;;100.0;0.0
+012_LandingGear.labeled;ForceLabel;ForceLabel ;;83.9;0.0
+012_LandingGear.labeled;MomentArrow;;;100.0;0.0
+012_LandingGear.labeled;MomentLabel;;;100.0;0.0
+012_LandingGear.labeled;ForceArrow;ForceArrow ;;61.6;0.0
+012_LandingGear.labeled;Arc;;AngleLabel ;100.0;267.2
+012_LandingGear.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+012_LandingGear.labeled;ForceLabel;;;100.0;0.0
+012_LandingGear.labeled;Body;;;100.0;0.0
+012_LandingGear.labeled;ForceArrow;ForceArrow ;;45.1;0.0
+012_LandingGear.labeled;ForceLabel;;ForceArrow ;100.0;169.4
+012_LandingGear.labeled;ForceArrow;;;100.0;0.0
+012_LandingGear.labeled;ForceLabel;;;100.0;0.0
+012_LandingGear.labeled;LeaderLine;LeaderLine LeaderLine ;;52.5;0.0
+012_LandingGear.labeled;Arc;;;100.0;0.0
+012_LandingGear.labeled;AngleLabel;;;100.0;0.0
+012_LandingGear.labeled;LeaderLine;LeaderLine ;LeaderLine Arc AngleLabel ;54.4;111.6
+012_LandingGear.labeled;Arc;Arc ;;0.0;0.0
+012_LandingGear.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+012_LandingGear.labeled;LeaderLine;;;100.0;0.0
+012_LandingGear.labeled;Arc;;;100.0;0.0
+012_LandingGear.labeled;AngleLabel;;;100.0;0.0
+012_Pliers.labeled;Body;Body ;;96.3;0.0
+012_Pliers.labeled;ForceArrow;ForceArrow ;;38.2;0.0
+012_Pliers.labeled;ForceLabel;;;100.0;0.0
+012_Pliers.labeled;ForceArrow;ForceArrow ;;50.1;0.0
+012_Pliers.labeled;ForceLabel;;ForceArrow ;100.0;48.1
+012_Pliers.labeled;ForceArrow;;;100.0;0.0
+012_Pliers.labeled;ForceLabel;;;100.0;0.0
+012_Pliers.labeled;ForceArrow;;;100.0;0.0
+012_Pliers.labeled;ForceLabel;;;100.0;0.0
+012_Pliers.labeled;LeaderLine;;;100.0;0.0
+012_Pliers.labeled;Arc;;;100.0;0.0
+012_Pliers.labeled;AngleLabel;;;100.0;0.0
+013_Crane.labeled;Body;Body Body ;;91.2;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;ForceArrow MomentArrow ;100.0;206.8
+013_Crane.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crane.labeled;MomentArrow;MomentArrow MomentArrow ;;0.0;0.0
+013_Crane.labeled;MomentLabel;;;100.0;0.0
+013_Crane.labeled;ForceLabel;ForceLabel ForceLabel ;;1.4;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;Body;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;Body;Body ;;62.4;0.0
+013_Crane.labeled;ForceArrow;;ForceArrow ;100.0;77.7
+013_Crane.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceLabel;ForceLabel ;;96.5;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;ForceArrow ;;62.2;0.0
+013_Crane.labeled;MomentArrow;;Body ForceArrow ;100.0;295.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;MomentLabel;;;100.0;0.0
+013_Crane.labeled;DimensionLabel;;;100.0;0.0
+013_Crane.labeled;DimensionLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crane.labeled;Arc;;;100.0;0.0
+013_Crane.labeled;AngleLabel;;;100.0;0.0
+013_Crane.labeled;DimensionLabel;DimensionLabel DimensionLabel DimensionLabel DimensionLabel DimensionLabel DimensionLabel DimensionLabel ;;20.8;0.0
+013_Crane.labeled;ForceArrow;ForceArrow ;;91.7;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;Body;Body Body ;LeaderLine ;15.8;13.2
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;ForceLabel;;;100.0;0.0
+013_Crane.labeled;ForceArrow;;;100.0;0.0
+013_Crane.labeled;Point;Point ;ForceArrow ;83.3;49.3
+013_Crane.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+013_Crane.labeled;Arc;;;100.0;0.0
+013_Crane.labeled;AngleLabel;AngleLabel AngleLabel AngleLabel ;;51.8;0.0
+013_Crank.labeled;Body;;;100.0;0.0
+013_Crank.labeled;ForceArrow;;;100.0;0.0
+013_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;17.0;0.0
+013_Crank.labeled;LeaderLine;LeaderLine ;;90.5;0.0
+013_Crank.labeled;AngleLabel;;Arc ;100.0;39.6
+013_Crank.labeled;Arc;Arc ;;0.0;0.0
+013_Crank.labeled;ForceArrow;;;100.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;ForceArrow;;ForceArrow ;100.0;99.1
+013_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;62.9;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;Point;;LeaderLine LeaderLine ;100.0;297.6
+013_Crank.labeled;DimensionArrow;;DimensionLabel ;100.0;19.5
+013_Crank.labeled;DimensionLabel;DimensionLabel DimensionLabel ;;0.0;0.0
+013_Crank.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+013_Crank.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+013_Crank.labeled;Body;;Point ForceArrow ;100.0;2.4
+013_Crank.labeled;ForceArrow;;ForceArrow ;100.0;113.7
+013_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;Point;Point ;;0.0;0.0
+013_Crank.labeled;ForceArrow;;ForceArrow ;100.0;76.3
+013_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;ForceArrow;ForceArrow ;ForceArrow ForceLabel ;79.5;112.2
+013_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crank.labeled;ForceLabel;ForceLabel ;;75.9;0.0
+013_Crank.labeled;ForceLabel;ForceLabel ;;68.3;0.0
+013_Crank.labeled;Body;;;100.0;0.0
+013_Crank.labeled;ForceArrow;;;100.0;0.0
+013_Crank.labeled;ForceArrow;;;100.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;ForceLabel;;;100.0;0.0
+013_Crank.labeled;Body;;;100.0;0.0
+013_Crank.labeled;ForceArrow;ForceArrow ;ForceLabel ;73.1;84.6
+013_Crank.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+013_Crank.labeled;LeaderLine;LeaderLine LeaderLine ;;19.9;0.0
+013_Crank.labeled;Arc;;;100.0;0.0
+013_Crank.labeled;AngleLabel;;LeaderLine ;100.0;92.5
+013_Crank.labeled;MomentArrow;;;100.0;0.0
+013_Crank.labeled;MomentLabel;;;100.0;0.0
+013_Crank.labeled;Divider;Divider Divider ;;12.1;0.0
+013_Crank.labeled;LeaderLine;LeaderLine ;;43.1;0.0
+013_Crank.labeled;LeaderLine;;;100.0;0.0
+013_Crank.labeled;ForceArrow;ForceArrow ForceArrow ForceArrow ForceArrow ;;13.4;0.0
+013_Crank.labeled;ForceLabel;;ForceArrow ForceArrow ;100.0;109.9
+013_Crusher.labeled;ForceArrow;;Body ;100.0;295.4
+013_Crusher.labeled;Body;Body ;;0.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;Body;Body ;;18.3;0.0
+013_Crusher.labeled;ForceLabel;;ForceArrow ;100.0;89.9
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;LeaderLine;LeaderLine ;;28.5;0.0
+013_Crusher.labeled;Arc;;ForceLabel ;100.0;358.0
+013_Crusher.labeled;AngleLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+013_Crusher.labeled;LeaderLine;;;100.0;0.0
+013_Crusher.labeled;Arc;;;100.0;0.0
+013_Crusher.labeled;AngleLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;ForceLabel ;;49.7;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;LeaderLine;LeaderLine ;;23.7;0.0
+013_Crusher.labeled;LeaderLine;;AngleLabel ;100.0;309.0
+013_Crusher.labeled;Arc;;;100.0;0.0
+013_Crusher.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+013_Crusher.labeled;Body;;Body ;100.0;31.5
+013_Crusher.labeled;Body;Body ;;0.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;ForceArrow ;;46.1;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;ForceLabel ;;82.6;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;LeaderLine;LeaderLine LeaderLine ;;2.8;0.0
+013_Crusher.labeled;Arc;;;100.0;0.0
+013_Crusher.labeled;AngleLabel;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;;ForceArrow ;100.0;114.9
+013_Crusher.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;ForceArrow ;;75.6;0.0
+013_Crusher.labeled;LeaderLine;LeaderLine ;Divider ;75.0;841.1
+013_Crusher.labeled;AngleLabel;;Arc ForceLabel ;100.0;95.5
+013_Crusher.labeled;Arc;Arc ;;0.0;0.0
+013_Crusher.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+013_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ;;56.1;0.0
+013_Crusher.labeled;Body;;;100.0;0.0
+013_Crusher.labeled;Point;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;;ForceArrow ;100.0;100.6
+013_Crusher.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;ForceArrow ;;64.1;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;Body;;;100.0;0.0
+013_Crusher.labeled;Divider;Divider ;;0.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;AngleLabel ;100.0;105.7
+013_Crusher.labeled;LeaderLine;LeaderLine ;;76.9;0.0
+013_Crusher.labeled;AngleLabel;AngleLabel ;;0.0;0.0
+013_Crusher.labeled;ForceArrow;;;100.0;0.0
+013_Crusher.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;Body;Body ;;97.5;0.0
+013_Hoist.labeled;Point;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;;;100.0;0.0
+013_Hoist.labeled;Arc;;;100.0;0.0
+013_Hoist.labeled;MomentLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;LeaderLine LeaderLine ;;35.9;0.0
+013_Hoist.labeled;DimensionLabel;;;100.0;0.0
+013_Hoist.labeled;DimensionLabel;;LeaderLine ;100.0;38.6
+013_Hoist.labeled;Body;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;ForceArrow ;;59.5;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;Body;Body ;ForceArrow ;18.6;25.6
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;ForceLabel ;;99.7;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;Arc;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;;;100.0;0.0
+013_Hoist.labeled;MomentLabel;;;100.0;0.0
+013_Hoist.labeled;Arc;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;;;100.0;0.0
+013_Hoist.labeled;AngleLabel;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;LeaderLine ;;76.0;0.0
+013_Hoist.labeled;LeaderLine;;;100.0;0.0
+013_Hoist.labeled;LeaderLine;LeaderLine LeaderLine ;;32.1;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;AngleLabel;AngleLabel ;;72.5;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;Point;;;100.0;0.0
+013_Hoist.labeled;LocationLabel;;LeaderLine ;100.0;82.9
+013_Hoist.labeled;DimensionLabel;;;100.0;0.0
+013_Hoist.labeled;DimensionLabel;;;100.0;0.0
+013_Hoist.labeled;Body;Body Body Body Body ;;3.8;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;ForceLabel ;;51.2;0.0
+013_Hoist.labeled;ForceArrow;ForceArrow ;;76.5;0.0
+013_Hoist.labeled;ForceLabel;;ForceArrow ;100.0;26.2
+013_Hoist.labeled;Point;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;;;100.0;0.0
+013_Hoist.labeled;ForceArrow;ForceArrow ;;70.3;0.0
+013_Hoist.labeled;ForceLabel;ForceLabel ;ForceArrow ;88.5;37.9
+013_Hoist.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;Body;;;100.0;0.0
+013_LandingGear.labeled;AxisLabel;;;100.0;0.0
+013_LandingGear.labeled;CoordSystem;CoordSystem ;;86.3;0.0
+013_LandingGear.labeled;AxisLabel;AxisLabel ;CoordSystem ;74.9;90.6
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;26.3;0.0
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;;ForceArrow ;100.0;116.3
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;MomentArrow;MomentArrow ;;75.7;0.0
+013_LandingGear.labeled;MomentLabel;;MomentArrow ;100.0;45.1
+013_LandingGear.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine ;;40.6;0.0
+013_LandingGear.labeled;Arc;;;100.0;0.0
+013_LandingGear.labeled;AngleLabel;;;100.0;0.0
+013_LandingGear.labeled;Body;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;77.6;0.0
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;;;100.0;0.0
+013_LandingGear.labeled;ForceLabel;ForceLabel ;;67.5;0.0
+013_LandingGear.labeled;ForceArrow;;;100.0;0.0
+013_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;80.1;0.0
+013_LandingGear.labeled;Point;;LeaderLine LeaderLine LeaderLine ;100.0;226.6
+013_LandingGear.labeled;ForceLabel;ForceLabel ;ForceArrow ;76.1;92.6
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_LandingGear.labeled;Arc;;LeaderLine ;100.0;56.1
+013_LandingGear.labeled;AngleLabel;AngleLabel ;;64.5;0.0
+013_LandingGear.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine LeaderLine ;;12.2;0.0
+013_LandingGear.labeled;Body;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;70.3;0.0
+013_LandingGear.labeled;ForceArrow;ForceArrow ;;60.2;0.0
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;ForceLabel;;;100.0;0.0
+013_LandingGear.labeled;Body;;;100.0;0.0
+013_LandingGear.labeled;ForceArrow;;ForceLabel ;100.0;39.3
+013_LandingGear.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+013_LandingGear.labeled;MomentArrow;;;100.0;0.0
+013_LandingGear.labeled;MomentLabel;;;100.0;0.0
+013_LandingGear.labeled;LeaderLine;LeaderLine LeaderLine ;;59.8;0.0
+013_LandingGear.labeled;Arc;;;100.0;0.0
+013_LandingGear.labeled;AngleLabel;;;100.0;0.0
+013_LandingGear.labeled;Arc;;LeaderLine LeaderLine Arc ;100.0;548.2
+013_LandingGear.labeled;LeaderLine;LeaderLine ;;59.2;0.0
+013_LandingGear.labeled;LeaderLine;LeaderLine ;;0.0;0.0
+013_LandingGear.labeled;Arc;Arc ;;0.0;0.0
+013_LandingGear.labeled;AngleLabel;;;100.0;0.0
+013_Pliers.labeled;Body;;ForceArrow ;100.0;5.6
+013_Pliers.labeled;ForceArrow;ForceArrow ;;73.5;0.0
+013_Pliers.labeled;ForceArrow;;;100.0;0.0
+013_Pliers.labeled;ForceArrow;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;ForceArrow;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine ;;48.6;0.0
+013_Pliers.labeled;Arc;;;100.0;0.0
+013_Pliers.labeled;AngleLabel;;;100.0;0.0
+013_Pliers.labeled;Body;;;100.0;0.0
+013_Pliers.labeled;ForceArrow;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;LeaderLine;LeaderLine LeaderLine LeaderLine LeaderLine ;;49.3;0.0
+013_Pliers.labeled;Arc;;;100.0;0.0
+013_Pliers.labeled;AngleLabel;;;100.0;0.0
+013_Pliers.labeled;ForceArrow;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;Point;;;100.0;0.0
+013_Pliers.labeled;ForceArrow;;ForceArrow ;100.0;103.1
+013_Pliers.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;ForceLabel;;;100.0;0.0
+013_Pliers.labeled;LeaderLine;LeaderLine LeaderLine ;;58.7;0.0
+013_Pliers.labeled;DimensionLabel;;LeaderLine ;100.0;29.5
+014_Crane.labeled;Body;;;100.0;0.0
+014_Crane.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;88.5
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;ForceLabel ;;74.1;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;Body;Body ;;80.8;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;ForceLabel ;;62.6;0.0
+014_Crane.labeled;ForceArrow;;;100.0;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;OtherLabel;OtherLabel ;;26.2;0.0
+014_Crane.labeled;OtherLabel;OtherLabel ;;31.6;0.0
+014_Crane.labeled;OtherLabel;;;100.0;0.0
+014_Crane.labeled;LeaderLine;;;100.0;0.0
+014_Crane.labeled;AngleLabel;;;100.0;0.0
+014_Crane.labeled;ForceArrow;ForceArrow ;;49.6;0.0
+014_Crane.labeled;ForceLabel;ForceLabel ;;46.9;0.0
+014_Crane.labeled;ForceArrow;ForceArrow ;;65.6;0.0
+014_Crane.labeled;ForceLabel;;;100.0;0.0
+014_Crane.labeled;MomentArrow;;;100.0;0.0
+014_Crane.labeled;MomentLabel;;;100.0;0.0
+014_Crane.labeled;AngleLabel;;;100.0;0.0
+014_Crane.labeled;OtherLabel;OtherLabel ;;19.7;0.0
+014_Crane.labeled;OtherLabel;;;100.0;0.0
+014_Crane.labeled;OtherLabel;OtherLabel ;;37.7;0.0
+014_Crane.labeled;Body;Body ;;83.6;0.0
+014_Crank.labeled;ForceArrow;;ForceArrow ;100.0;118.7
+014_Crank.labeled;ForceLabel;;;100.0;0.0
+014_Crank.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+014_Crank.labeled;ForceLabel;ForceLabel ;;46.6;0.0
+014_Crank.labeled;ForceArrow;;;100.0;0.0
+014_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;40.3;0.0
+014_Crank.labeled;ForceArrow;;Body ;100.0;50.2
+014_Crank.labeled;ForceLabel;;;100.0;0.0
+014_Crank.labeled;ForceArrow;ForceArrow ;;69.5;0.0
+014_Crank.labeled;ForceLabel;;;100.0;0.0
+014_Crank.labeled;Body;Body Body ;;88.4;0.0
+014_Crank.labeled;Body;;;100.0;0.0
+014_Crank.labeled;ForceArrow;;;100.0;0.0
+014_Crank.labeled;ForceLabel;ForceLabel ;;82.1;0.0
+014_Crank.labeled;ForceArrow;;;100.0;0.0
+014_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;38.1;0.0
+014_Crank.labeled;ForceLabel;;;100.0;0.0
+014_Crank.labeled;ForceLabel;;ForceArrow ;100.0;42.4
+014_Crank.labeled;ForceArrow;ForceArrow ;;51.8;0.0
+014_Crank.labeled;MomentArrow;;;100.0;0.0
+014_Crank.labeled;MomentLabel;;;100.0;0.0
+014_Crank.labeled;OtherLabel;OtherLabel ;;21.1;0.0
+014_Crank.labeled;OtherLabel;OtherLabel ;;19.2;0.0
+014_Crank.labeled;OtherLabel;OtherLabel ;;34.9;0.0
+014_Crank.labeled;OtherLabel;OtherLabel ;;33.5;0.0
+014_Crank.labeled;ForceArrow;ForceArrow ;;38.8;0.0
+014_Crank.labeled;Body;Body ;;66.1;0.0
+014_Crank.labeled;ForceArrow;ForceArrow ;;65.4;0.0
+014_Crank.labeled;ForceLabel;ForceLabel ForceLabel ;;35.3;0.0
+014_Crusher.labeled;ForceArrow;;;100.0;0.0
+014_Crusher.labeled;ForceLabel;;;100.0;0.0
+014_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ;;73.5;0.0
+014_Crusher.labeled;ForceArrow;;ForceArrow ForceArrow ;100.0;86.2
+014_Crusher.labeled;ForceLabel;;;100.0;0.0
+014_Crusher.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+014_Crusher.labeled;ForceLabel;;;100.0;0.0
+014_Crusher.labeled;Body;;;100.0;0.0
+014_Crusher.labeled;ForceArrow;;;100.0;0.0
+014_Crusher.labeled;ForceLabel;ForceLabel ForceLabel ;;67.3;0.0
+014_Crusher.labeled;ForceArrow;;;100.0;0.0
+014_Crusher.labeled;ForceLabel;;;100.0;0.0
+014_Crusher.labeled;Body;;;100.0;0.0
+014_Crusher.labeled;ForceArrow;ForceArrow ;;57.4;0.0
+014_Crusher.labeled;ForceArrow;;ForceArrow ;100.0;27.2
+014_Crusher.labeled;ForceLabel;;;100.0;0.0
+014_Crusher.labeled;OtherLabel;OtherLabel ;;20.5;0.0
+014_Crusher.labeled;OtherLabel;OtherLabel ;;31.0;0.0
+014_Crusher.labeled;OtherLabel;OtherLabel ;;22.9;0.0
+014_Crusher.labeled;OtherLabel;OtherLabel ;;32.9;0.0
+014_Hoist.labeled;ForceLabel;ForceLabel ;;74.3;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;Body;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;66.6;0.0
+014_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ForceLabel ;;46.8;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;Body;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;ForceLabel ForceLabel ;100.0;104.5
+014_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;0.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;ForceLabel ForceLabel ;;67.6;0.0
+014_Hoist.labeled;Body;Body Body Body Body ;;9.5;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;ForceLabel ;;92.5;0.0
+014_Hoist.labeled;ForceArrow;;;100.0;0.0
+014_Hoist.labeled;ForceLabel;;;100.0;0.0
+014_Hoist.labeled;OtherLabel;OtherLabel ;;17.6;0.0
+014_Hoist.labeled;OtherLabel;OtherLabel ;;35.0;0.0
+014_Hoist.labeled;OtherLabel;OtherLabel ;;17.2;0.0
+014_Hoist.labeled;OtherLabel;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;60.3;0.0
+014_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ;;63.3;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;ForceArrow ForceArrow ;;58.1;0.0
+014_LandingGear.labeled;Body;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;Point;;LocationLabel ;100.0;1645.8
+014_LandingGear.labeled;LocationLabel;LocationLabel LocationLabel ;;0.0;0.0
+014_LandingGear.labeled;Point;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ;;21.5;0.0
+014_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ;;51.8;0.0
+014_LandingGear.labeled;Body;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;ForceLabel ;;69.3;0.0
+014_LandingGear.labeled;MomentArrow;;ForceArrow ;100.0;34.6
+014_LandingGear.labeled;ForceLabel;ForceLabel ForceLabel ForceLabel ForceLabel ;;13.9;0.0
+014_LandingGear.labeled;ForceArrow;ForceArrow ;;0.0;0.0
+014_LandingGear.labeled;MomentLabel;;;100.0;0.0
+014_LandingGear.labeled;Body;;;100.0;0.0
+014_LandingGear.labeled;ForceArrow;;;100.0;0.0
+014_LandingGear.labeled;ForceLabel;;;100.0;0.0
+014_LandingGear.labeled;OtherLabel;OtherLabel ;;31.0;0.0
+014_LandingGear.labeled;OtherLabel;OtherLabel ;;26.4;0.0
+014_LandingGear.labeled;OtherLabel;OtherLabel ;;19.3;0.0
+014_LandingGear.labeled;OtherLabel;;;100.0;0.0
+014_LandingGear.labeled;OtherLabel;OtherLabel ;;49.0;0.0
+014_Pliers.labeled;Body;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;;;100.0;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;;;100.0;0.0
+014_Pliers.labeled;ForceLabel;ForceLabel ;;89.4;0.0
+014_Pliers.labeled;ForceArrow;;;100.0;0.0
+014_Pliers.labeled;ForceLabel;ForceLabel ForceLabel ;;62.7;0.0
+014_Pliers.labeled;ForceArrow;ForceArrow ;;34.1;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;Body;;ForceArrow ;100.0;31.3
+014_Pliers.labeled;ForceArrow;ForceArrow ForceArrow ;;0.0;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;;;100.0;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;Body;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;ForceArrow ;;45.9;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;;;100.0;0.0
+014_Pliers.labeled;ForceLabel;;;100.0;0.0
+014_Pliers.labeled;ForceArrow;ForceArrow ;;59.4;0.0
+014_Pliers.labeled;ForceLabel;;ForceArrow ;100.0;51.1
+014_Pliers.labeled;ForceArrow;;ForceLabel ;100.0;83.6
+014_Pliers.labeled;ForceLabel;ForceLabel ;;0.0;0.0
+014_Pliers.labeled;OtherLabel;OtherLabel ;;17.8;0.0
+014_Pliers.labeled;OtherLabel;OtherLabel ;;29.3;0.0
+014_Pliers.labeled;OtherLabel;OtherLabel ;;21.9;0.0
+014_Pliers.labeled;OtherLabel;;;100.0;0.0

@@ -1,0 +1,8 @@
+	Arrow	Body	Label	LineArc	Point
+Arrow	805	11	229	30	2	
+Body	30	190	8	7	2	
+Label	151	5	1530	34	4	
+LineArc	64	7	84	180	0	
+Point	0	2	29	1	26	
+
+
